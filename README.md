@@ -21,4 +21,4 @@ trained in PyTorch and TensorFlow.
 **Stack:** Java · JavaScript · Python · PHP · SQL · TensorFlow/Keras · PyTorch · Flask · OpenCV ·
 MongoDB Atlas · Firebase · Android SDK · Git
 
-📫 [hillzhang0426@icloud.com](mailto:hillzhang0426@icloud.com) · [LinkedIn](https://www.linkedin.com/in/zhangjunyi/)
+📫 [hillzhang0426@icloud.com](mailto:hillzhang0426@icloud.com) · [LinkedIn](https://www.linkedin.com/in/zhangjunyi-dev/)
